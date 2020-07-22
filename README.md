@@ -11,12 +11,9 @@ Download raw data from https://github.com/shahroudy/NTURGB-D
 Use `st-gcn/tools/ntu_gendata.py` in https://github.com/yysijie/st-gcn to prepare data
 - NTU RGB+D 120:  
 Same as NTU RGB+D 60 but needs some modification for NTU 120.
-- SBU  
+- SBU, UWA3D, N-UCLA  
 Download：https://share.weiyun.com/gCfTvj0Y password：ktp4x8
-- UWA3D  
-Same as SBU
-- N-UCLA  
-Same as SBU
+
 
 
 ## Usage

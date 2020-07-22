@@ -17,16 +17,16 @@ Same as NTU RGB+D 60 but needs some modification for NTU 120.
 
 ## Usage
 - pretrain and then linear evaluation:  
-  python  pretrain_and_linEval.py
+  `python  pretrain_and_linEval.py`
 
 - eload and linear:  
-python linEval.py --mode eval --model_path ./pretrained_model.pth
+`python linEval.py --mode eval --model_path ./pretrained_model.pth`
 
 - supervised:  
-python linEval.py --mode supervise
+`python linEval.py --mode supervise`
 
 - reload and semi-supervised:  
-python linEval.py --mode semi --model_path ./pretrained_model.pth
+`python linEval.py --mode semi --model_path ./pretrained_model.pth`
 
 For more customized parameters setting, you can change them in parse_option(). 
 ## License

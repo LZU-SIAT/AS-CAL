@@ -17,7 +17,7 @@ same as NTU 60 but needs some modification on NTU 120.
 
 ## Usage
 - pretrain and then linear evaluation:  
-python  pretrain_and_linEval.py
+  python  pretrain_and_linEval.py
 
 - eload and linear:  
 python linEval.py --mode eval --model_path ./pretrained_model.pth

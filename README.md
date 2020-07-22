@@ -1,4 +1,4 @@
-# AS_CAL
+# AS-CAL
 
 ## Introduction
 This is the official implementation of "Augmented Skeleton Based Contrastive Action Learning with Momentum LSTM for Unsupervised Action Recognition". 
@@ -8,8 +8,8 @@ This is the official implementation of "Augmented Skeleton Based Contrastive Act
 ## Datasets
 - NTU RGB+D 60:  
 Use `st-gcn/tools/ntu_gendata.py` in https://github.com/yysijie/st-gcn to prepare data
-- NTU RGB+D 120
-same as NTU 60 but needs some modification on NTU 120.
+- NTU RGB+D 120:  
+Same as NTU RGB+D 60 but needs some modification for NTU 120.
 - SBU
 - UWA3D
 - N-UCLA

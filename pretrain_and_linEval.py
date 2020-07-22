@@ -161,7 +161,7 @@ def parse_option():
         opt.lstm_layer = 1
         opt.selected_frames = 60
         opt.learning_rate = 0.01
-        opt.nce_k = 511
+        opt.nce_k = 500
         opt.epochs = 60
         opt.lr_decay_epochs = '30,70,150'
     elif opt.dataset == 'ucla':

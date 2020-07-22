@@ -20,15 +20,15 @@ Download：https://share.weiyun.com/gCfTvj0Y password：ktp4x8
 - pretrain and then linear evaluation:  
   `python  pretrain_and_linEval.py`
 
-- load and linear:  
+- reload pre-trained models and linear evaluation:  
 `python linEval.py --mode eval --model_path ./pretrained_model.pth`
 
 - supervised:  
 `python linEval.py --mode supervise`
 
-- reload and semi-supervised:  
+- reload pre-trained models and semi-supervised:  
 `python linEval.py --mode semi --model_path ./pretrained_model.pth`
 
-For more customized parameters setting, you can change them in parse_option(). 
+For more customized parameters setting, you can change them in `parse_option()` or `parse_option_lin_eval()` 
 ## License
 AS-CAL is released under the MIT License.

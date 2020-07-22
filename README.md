@@ -19,7 +19,7 @@ Same as NTU RGB+D 60 but needs some modification for NTU 120.
 - pretrain and then linear evaluation:  
   `python  pretrain_and_linEval.py`
 
-- eload and linear:  
+- load and linear:  
 `python linEval.py --mode eval --model_path ./pretrained_model.pth`
 
 - supervised:  

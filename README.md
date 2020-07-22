@@ -7,7 +7,7 @@ This is the official implementation of "Augmented Skeleton Based Contrastive Act
 - pytorch 1.0.1
 ## Datasets
 - NTU RGB+D 60:  
-Use st-gcn/tools/ntu_gendata.py in https://github.com/yysijie/st-gcn to prepare data
+Use `st-gcn/tools/ntu_gendata.py` in https://github.com/yysijie/st-gcn to prepare data
 - NTU RGB+D 120
 same as NTU 60 but needs some modification on NTU 120.
 - SBU

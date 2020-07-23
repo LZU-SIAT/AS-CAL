@@ -29,6 +29,6 @@ Download：https://share.weiyun.com/gCfTvj0Y password：ktp4x8
 - reload pre-trained models and semi-supervised:  
 `python linEval.py --mode semi --model_path ./pretrained_model.pth`
 
-For more customized parameter settings, you can change them in `parse_option()` or `parse_option_lin_eval()` 
+For more customized parameter settings, you can change them in `parse_option()` and/or `parse_option_lin_eval()` 
 ## License
 AS-CAL is released under the MIT License.

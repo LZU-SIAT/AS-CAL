@@ -4,7 +4,7 @@
 This is the official implementation of "Augmented Skeleton Based Contrastive Action Learning with Momentum LSTM for Unsupervised Action Recognition". 
 ## Requirements
 - Python 3.6
-- pytorch 1.0.1
+- Pytorch 1.0.1
 ## Datasets
 - NTU RGB+D 60:  
 Download raw data from https://github.com/shahroudy/NTURGB-D  

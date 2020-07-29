@@ -12,7 +12,7 @@ Use `st-gcn/tools/ntu_gendata.py` in https://github.com/yysijie/st-gcn to prepar
 - NTU RGB+D 120:  
 Same as NTU RGB+D 60 but needs some modification for NTU RGB+D 120.
 - SBU, UWA3D, N-UCLA  
-Download：https://share.weiyun.com/gCfTvj0Y password：ktp4x8
+Unzip the `.zip` file in `/data` and put them into the directory corresponding to the one in codes.
 
 
 

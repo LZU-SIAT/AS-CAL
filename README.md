@@ -34,4 +34,4 @@ For more customized parameter settings, you can change them in `parse_option()` 
 
 
 ## License
-AS-CAL is released under the MIT Licens
+AS-CAL is released under the MIT License.

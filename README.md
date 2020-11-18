@@ -31,7 +31,15 @@ Unzip the `.zip` file in `/data` and put them into the directory corresponding t
 
 For more customized parameter settings, you can change them in `parse_option()` and/or `parse_option_lin_eval()` 
 
-
+## Citation
+`@misc{rao2020augmented,
+      title={Augmented Skeleton Based Contrastive Action Learning with Momentum LSTM for Unsupervised Action Recognition}, 
+      author={Haocong Rao and Shihao Xu and Xiping Hu and Jun Cheng and Bin Hu},
+      year={2020},
+      eprint={2008.00188},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}`
 
 ## License
 AS-CAL is released under the MIT License.

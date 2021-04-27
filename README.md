@@ -39,12 +39,12 @@ Besides, we suggest to set `epochs` to 1 in `parse_option_lin_eval()`.
 AS-CAL is released under the MIT License.
 
 ## Citation
-@misc{rao2020augmented,  
-      title={Augmented Skeleton Based Contrastive Action Learning with Momentum LSTM for Unsupervised Action Recognition},  
-      author={Haocong Rao and Shihao Xu and Xiping Hu and Jun Cheng and Bin Hu},  
-      year={2020},  
-      eprint={2008.00188},  
-      archivePrefix={arXiv},  
-      primaryClass={cs.CV}  
-      }
-
+@article{RAO202190,
+title = {Augmented Skeleton Based Contrastive Action Learning with Momentum LSTM for Unsupervised Action Recognition},
+journal = {Information Sciences},
+volume = {569},
+pages = {90-109},
+year = {2021},
+doi = {https://doi.org/10.1016/j.ins.2021.04.023},
+author = {Haocong Rao and Shihao Xu and Xiping Hu and Jun Cheng and Bin Hu},
+}

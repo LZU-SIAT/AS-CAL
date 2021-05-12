@@ -29,7 +29,7 @@ Unzip the `.zip` file in `/data` and put them into the directory corresponding t
 - reload pre-trained models and semi-supervised:  
 `python linEval.py --mode semi --model_path ./pretrained_model.pth`
 
-For more customized parameter settings, you can change them in `parse_option()` and/or `parse_option_lin_eval()` 
+For more customized parameter settings, you can change them in `parse_option()` and/or `parse_option_lin_eval()`. But some parameters may be reset in the later lines. Carefully check. Apology！
 
 ## Tips  
 To debug, we suggest to set `epochs` to 2 and `save_freq` to 1 in `parse_option()`.  
